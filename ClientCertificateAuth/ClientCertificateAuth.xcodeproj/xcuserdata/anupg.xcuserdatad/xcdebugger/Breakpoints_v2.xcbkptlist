@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1C77706B-0F8B-4391-861E-075BFD7BE840"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1EB885CD-FD59-4812-B9A7-B0A25264A870"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClientCertificateAuth/URLSessionVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE6C6931-36FE-40B7-B02F-7E68E1A14319"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClientCertificateAuth/URLSessionVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "sendHTTPRequest(_:useCertificate:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EE6C6931-36FE-40B7-B02F-7E68E1A14319 - c0ee032ce390b459"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClientCertificateAuth.URLSessionVC.sendHTTPRequest(_: Foundation.URL, useCertificate: Swift.Bool) async -&gt; Swift.String"
+                  moduleName = "ClientCertificateAuth"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anupg/workSpace/Learning/ClientCertificateAuth/ClientCertificateAuth/URLSessionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "EE6C6931-36FE-40B7-B02F-7E68E1A14319 - c0ee032ce390b459"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ClientCertificateAuth.URLSessionVC.sendHTTPRequest(_: Foundation.URL, useCertificate: Swift.Bool) async -&gt; Swift.String"
+                  moduleName = "ClientCertificateAuth"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anupg/workSpace/Learning/ClientCertificateAuth/ClientCertificateAuth/URLSessionVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "340">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B992379-716F-41D1-9542-1CE6A205CDFE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClientCertificateAuth/URLSessionVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "urlSession(_:didReceive:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD2DFF14-871A-4F57-8C68-C3082B687A2C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClientCertificateAuth/UserCertificate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "userCertificateForBadSSLWebsite"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
